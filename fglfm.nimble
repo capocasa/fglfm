@@ -1,5 +1,5 @@
 version       = "0.1.0"
-author        = "glfum"
+author        = "Carlo Capocasa"
 description   = "Thin GLFM wrapper"
 license       = "BSD3"
 #srcDir        = "src"
